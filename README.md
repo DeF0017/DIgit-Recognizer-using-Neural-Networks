@@ -17,9 +17,10 @@ Recognizing hand-written digits is a fundamental problem in computer vision and 
 
 With the Gradio interface integrated into this project, you can draw a digit on a sketchpad, and the trained neural network model will interpret and recognize the digit. This interactive feature allows you to quickly test the model's accuracy and see how well it performs on your own handwritten digits.
 
-## Drawing and Recognizing Digits
-1. Once the Gradio interface is running, you'll see a sketchpad where you can draw a digit using your mouse or touchpad.
-2. After drawing a digit, click the "Recognize" button.
-3. The neural network model will process your drawing and display the recognized digit on the screen along with a confidence score.
-4. You can experiment with drawing various digits and observe how accurately the model interprets your drawings.
+## Steps for Running the trained model
+
+- Open the following .pynb file in google colab.
+- Run the Notebook
+- At the end you will find SketchPad for drawing the digits and the model will recognize it.
+
 
